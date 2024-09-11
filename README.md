@@ -11,3 +11,13 @@
 Нажимаем Add new tunnel
 
 ![image](https://github.com/user-attachments/assets/00365f46-7d63-4d4f-800a-2e3b93c62b29)
+
+
+Теперь заходим на web-интерфейс роутера:
+
+(http://192.168.1.1/)
+
+Необходимо изменить набор компонентов:
+
+![image](https://github.com/user-attachments/assets/6a8af09b-c977-4e73-92bd-e9ede9578138)
+
